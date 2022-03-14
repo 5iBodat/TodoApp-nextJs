@@ -65,7 +65,7 @@ const Home: NextPage = () => {
 
   return (
     <>
-      <div className="h-100 w-full flex items-center justify-center bg-teal-400 font-sans">
+      <div className="h-screen w-full flex items-center justify-center bg-teal-400 font-sans">
         <div className='bg-white rounded shadow p-6 m-4 w-full lg:w-3/4 lg:max-w-lg'>
           <div className="mb-4">
             <h1 className="text-grey-darkest text-5xl">My Todo App</h1>
